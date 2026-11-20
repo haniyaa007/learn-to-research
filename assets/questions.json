@@ -1,0 +1,942 @@
+[
+ {
+  "id": "noob",
+  "name": "Nina",
+  "title": "Noob Student",
+  "emoji": "🎒",
+  "color": "4CAF50",
+  "intro": "Fresh in the library. Learn what research is!",
+  "questions": [
+   {
+    "type": "mcq",
+    "q": "Which source is MOST reliable for a school paper?",
+    "options": [
+     "A random blog",
+     "A peer-reviewed journal article",
+     "A social media post",
+     "An anonymous forum"
+    ],
+    "answer": 1,
+    "why": "Peer review means experts checked the work first."
+   },
+   {
+    "type": "fake",
+    "q": "Which source is least trustworthy for a health claim?",
+    "options": [
+     "WHO fact sheet with references",
+     "Journal article with DOI",
+     "Anonymous site selling the miracle supplement it praises",
+     "University library guide"
+    ],
+    "answer": 2,
+    "why": "Commercial conflict of interest and no evidence are red flags."
+   },
+   {
+    "type": "citation",
+    "q": "Which citation is the most complete?",
+    "options": [
+     "Smith, 2020",
+     "Smith, J. (2020). Sleep and learning. Journal of Study, 12(3), 45–60.",
+     "A paper about sleep",
+     "www.google.com"
+    ],
+    "answer": 1,
+    "why": "Author, year, title, journal, volume and pages let readers find the source."
+   },
+   {
+    "type": "order",
+    "q": "Put the basic research steps in order:",
+    "items": [
+     "Pick a question",
+     "Find sources",
+     "Read & take notes",
+     "Write & cite"
+    ],
+    "why": "Question first, then sources, notes, writing."
+   },
+   {
+    "type": "mcq",
+    "q": "Copying text without credit is called…",
+    "options": [
+     "Paraphrasing",
+     "Plagiarism",
+     "Synthesis",
+     "Skimming"
+    ],
+    "answer": 1,
+    "why": "Plagiarism presents others' work as your own."
+   },
+   {
+    "type": "mcq",
+    "q": "Best tool for finding scholarly papers?",
+    "options": [
+     "Google Scholar",
+     "Meme site",
+     "Online shop",
+     "Weather app"
+    ],
+    "answer": 0,
+    "why": "Scholar indexes academic literature."
+   },
+   {
+    "type": "mcq",
+    "q": "What does 'DOI' stand for?",
+    "options": [
+     "Digital Object Identifier",
+     "Data Online Index",
+     "Document Origin ID",
+     "Direct Open Item"
+    ],
+    "answer": 0,
+    "why": "A DOI is a permanent link to a paper."
+   },
+   {
+    "type": "fake",
+    "q": "A post says 'Scientists HATE this trick!'. Best move?",
+    "options": [
+     "Search for the original study",
+     "Share it fast",
+     "Trust it because it has many likes",
+     "Screenshot it"
+    ],
+    "answer": 0,
+    "why": "Check primary sources before sharing."
+   },
+   {
+    "type": "mcq",
+    "q": "An abstract is…",
+    "options": [
+     "A short summary of a paper",
+     "The reference list",
+     "The author's bio",
+     "The title page"
+    ],
+    "answer": 0,
+    "why": "Read abstracts first to decide if a paper is relevant."
+   },
+   {
+    "type": "citation",
+    "q": "How should you use a direct quote?",
+    "options": [
+     "Quotation marks plus a citation",
+     "Change one word, skip credit",
+     "Paste it silently",
+     "Cite a different paper"
+    ],
+    "answer": 0,
+    "why": "Quotes need marks AND a source."
+   },
+   {
+    "type": "mcq",
+    "q": "Which is a primary source?",
+    "options": [
+     "An original experiment report",
+     "A textbook summary",
+     "An encyclopedia entry",
+     "A news recap"
+    ],
+    "answer": 0,
+    "why": "Primary sources present original data or findings."
+   },
+   {
+    "type": "order",
+    "q": "Evaluate a website in this order:",
+    "items": [
+     "Check the author",
+     "Check the date",
+     "Check evidence & references",
+     "Compare with other sources"
+    ],
+    "why": "Cross-checking is the final safeguard."
+   },
+   {
+    "type": "fake",
+    "q": "Which web address ending guarantees reliability?",
+    "options": [
+     "None — always check the content",
+     ".com",
+     ".org",
+     ".net"
+    ],
+    "answer": 0,
+    "why": "Domains don't guarantee quality."
+   },
+   {
+    "type": "mcq",
+    "q": "Why save source details while taking notes?",
+    "options": [
+     "So you can cite later without re-searching",
+     "It looks tidy",
+     "Teachers like colors",
+     "It avoids reading"
+    ],
+    "answer": 0,
+    "why": "Future-you will thank present-you."
+   },
+   {
+    "type": "mcq",
+    "q": "Which is the best search keyword set?",
+    "options": [
+     "'sleep deprivation memory'",
+     "A full angry sentence",
+     "Only 'stuff'",
+     "One letter"
+    ],
+    "answer": 0,
+    "why": "Specific keywords return better results."
+   }
+  ]
+ },
+ {
+  "id": "masters",
+  "name": "Marco",
+  "title": "Master's Student",
+  "emoji": "📘",
+  "color": "2196F3",
+  "intro": "Time for a proper literature review.",
+  "questions": [
+   {
+    "type": "mcq",
+    "q": "A good research question is…",
+    "options": [
+     "Vague and huge",
+     "Focused, answerable and relevant",
+     "Already answered",
+     "A simple fact"
+    ],
+    "answer": 1,
+    "why": "Narrow, answerable questions make projects feasible."
+   },
+   {
+    "type": "mcq",
+    "q": "Which Boolean search finds papers with BOTH terms?",
+    "options": [
+     "sleep OR memory",
+     "sleep NOT memory",
+     "sleep AND memory",
+     "sleep?memory"
+    ],
+    "answer": 2,
+    "why": "AND narrows results to both terms."
+   },
+   {
+    "type": "mcq",
+    "q": "A literature review is…",
+    "options": [
+     "A book summary",
+     "A critical map of existing research and its gaps",
+     "A list of authors",
+     "A novel"
+    ],
+    "answer": 1,
+    "why": "It shows what is known, debated and missing."
+   },
+   {
+    "type": "order",
+    "q": "Order a smart paper-reading strategy:",
+    "items": [
+     "Abstract",
+     "Introduction & conclusion",
+     "Methods & results",
+     "Save notes & citation"
+    ],
+    "why": "Triage first, then go deep only where needed."
+   },
+   {
+    "type": "fake",
+    "q": "Which is a sign of a predatory journal?",
+    "options": [
+     "Promises acceptance in 48h for a fee",
+     "Indexed in major databases",
+     "Named editors with affiliations",
+     "Transparent peer-review policy"
+    ],
+    "answer": 0,
+    "why": "Pay-to-publish with no real review is predatory."
+   },
+   {
+    "type": "citation",
+    "q": "Complete: 'Lee, K. (2019). Deep learning in medicine.'",
+    "options": [
+     "Add journal, volume, pages/DOI",
+     "Add an emoji",
+     "Remove the author",
+     "Add 'trust me'"
+    ],
+    "answer": 0,
+    "why": "Without the venue and DOI nobody can find it."
+   },
+   {
+    "type": "review",
+    "q": "Reviewer: 'Sample size is too small for your claim.' Best reply?",
+    "options": [
+     "Add power analysis and limitations, or collect more data",
+     "Say the reviewer is wrong",
+     "Delete the claim silently",
+     "Ignore it"
+    ],
+    "answer": 0,
+    "why": "Address concerns with evidence or revisions."
+   },
+   {
+    "type": "mcq",
+    "q": "Searching 'educat*' finds…",
+    "options": [
+     "education, educator, educational",
+     "Only 'educat'",
+     "Only 'edit'",
+     "Nothing"
+    ],
+    "answer": 0,
+    "why": "The * wildcard truncates word endings."
+   },
+   {
+    "type": "mcq",
+    "q": "'Snowballing' in literature search means…",
+    "options": [
+     "Following a good paper's references to find more",
+     "Rolling data into a ball",
+     "Deleting old papers",
+     "Random searching"
+    ],
+    "answer": 0,
+    "why": "Backward and forward citation chasing finds key papers."
+   },
+   {
+    "type": "mcq",
+    "q": "A systematic review differs because it has…",
+    "options": [
+     "A predefined, reproducible search and criteria",
+     "Fewer pages",
+     "Only blogs",
+     "No methods"
+    ],
+    "answer": 0,
+    "why": "Transparency is the point."
+   },
+   {
+    "type": "mcq",
+    "q": "Which tool manages references?",
+    "options": [
+     "Zotero",
+     "Calculator",
+     "Camera",
+     "Terminal"
+    ],
+    "answer": 0,
+    "why": "Reference managers save hours and avoid errors."
+   },
+   {
+    "type": "order",
+    "q": "Plan a thesis chapter:",
+    "items": [
+     "Outline",
+     "Draft",
+     "Get supervisor feedback",
+     "Revise"
+    ],
+    "why": "Feedback before polishing saves rewrites."
+   },
+   {
+    "type": "fake",
+    "q": "A preprint is…",
+    "options": [
+     "Not yet peer reviewed",
+     "Fully verified",
+     "A retracted paper",
+     "A textbook"
+    ],
+    "answer": 0,
+    "why": "Treat preprints with extra care."
+   },
+   {
+    "type": "citation",
+    "q": "An APA in-text citation looks like…",
+    "options": [
+     "(Author, Year)",
+     "(click here)",
+     "(trust me)",
+     "(Google)"
+    ],
+    "answer": 0,
+    "why": "Author-date format links to the reference list."
+   },
+   {
+    "type": "review",
+    "q": "Reviewer asks for a missing control. You…",
+    "options": [
+     "Run it, or explain why it isn't needed",
+     "Ignore it",
+     "Invent data",
+     "Withdraw"
+    ],
+    "answer": 0,
+    "why": "Address every point honestly."
+   }
+  ]
+ },
+ {
+  "id": "phd",
+  "name": "Priya",
+  "title": "PhD Candidate",
+  "emoji": "🔬",
+  "color": "9C27B0",
+  "intro": "Contribute something genuinely new.",
+  "questions": [
+   {
+    "type": "mcq",
+    "q": "A research gap is…",
+    "options": [
+     "A typo",
+     "A question existing studies leave unanswered",
+     "Time between experiments",
+     "A missing citation"
+    ],
+    "answer": 1,
+    "why": "Novelty comes from a real gap."
+   },
+   {
+    "type": "mcq",
+    "q": "Which design best tests cause and effect?",
+    "options": [
+     "Anecdote",
+     "Randomized controlled experiment",
+     "Opinion survey",
+     "Case summary"
+    ],
+    "answer": 1,
+    "why": "Randomization controls confounders."
+   },
+   {
+    "type": "mcq",
+    "q": "p = 0.04 means…",
+    "options": [
+     "96% chance the hypothesis is true",
+     "Data this extreme would be unlikely if the null were true",
+     "The effect is large",
+     "It was replicated"
+    ],
+    "answer": 1,
+    "why": "A p-value is not the probability a hypothesis is true."
+   },
+   {
+    "type": "order",
+    "q": "Order the pipeline of an original study:",
+    "items": [
+     "Hypothesis",
+     "Design & ethics approval",
+     "Collect & analyze data",
+     "Write, submit, revise"
+    ],
+    "why": "Ethics approval comes before data collection."
+   },
+   {
+    "type": "fake",
+    "q": "Which figure suggests misleading presentation?",
+    "options": [
+     "Error bars with n shown",
+     "Truncated y-axis exaggerating a tiny effect",
+     "Raw data shared",
+     "Pre-registered analysis"
+    ],
+    "answer": 1,
+    "why": "Truncated axes inflate small differences."
+   },
+   {
+    "type": "review",
+    "q": "Reviewer 2: 'Your conclusion overreaches the data.' Best response?",
+    "options": [
+     "Soften claims and discuss limitations",
+     "Rant to the editor",
+     "Add more adjectives",
+     "Resubmit elsewhere unchanged"
+    ],
+    "answer": 0,
+    "why": "Match claims to evidence."
+   },
+   {
+    "type": "mcq",
+    "q": "A confounding variable is…",
+    "options": [
+     "A hidden factor affecting both cause and effect",
+     "A typo",
+     "The outcome",
+     "The control group"
+    ],
+    "answer": 0,
+    "why": "Confounders create misleading associations."
+   },
+   {
+    "type": "mcq",
+    "q": "Sample bias means…",
+    "options": [
+     "The sample doesn't represent the population",
+     "Too many participants",
+     "Perfect data",
+     "A blind trial"
+    ],
+    "answer": 0,
+    "why": "Biased samples limit generalizability."
+   },
+   {
+    "type": "mcq",
+    "q": "Correlation vs causation:",
+    "options": [
+     "Correlation alone doesn't prove causation",
+     "Correlation always proves it",
+     "Correlation means no relation",
+     "They are identical"
+    ],
+    "answer": 0,
+    "why": "Need design or assumptions for causal claims."
+   },
+   {
+    "type": "mcq",
+    "q": "The 'replication crisis' refers to…",
+    "options": [
+     "Many published results failing to replicate",
+     "Too many labs",
+     "Lost data",
+     "Journals closing"
+    ],
+    "answer": 0,
+    "why": "It motivates open and pre-registered science."
+   },
+   {
+    "type": "mcq",
+    "q": "Statistical power is…",
+    "options": [
+     "The probability of detecting a real effect",
+     "Lab electricity",
+     "The effect size",
+     "The p-value"
+    ],
+    "answer": 0,
+    "why": "Underpowered studies miss real effects."
+   },
+   {
+    "type": "order",
+    "q": "Writing a paper:",
+    "items": [
+     "Outline",
+     "Draft methods & results",
+     "Write intro & discussion",
+     "Polish & check references"
+    ],
+    "why": "Write what you know best first."
+   },
+   {
+    "type": "fake",
+    "q": "Authors own the product they test, undisclosed. The issue is…",
+    "options": [
+     "Undisclosed conflict of interest",
+     "Nothing",
+     "Better funding",
+     "Faster review"
+    ],
+    "answer": 0,
+    "why": "Disclosure protects credibility."
+   },
+   {
+    "type": "citation",
+    "q": "Citing a preprint properly means…",
+    "options": [
+     "Marking it as a preprint with server and ID",
+     "Calling it peer-reviewed",
+     "Omitting the date",
+     "Hiding the server"
+    ],
+    "answer": 0,
+    "why": "Be transparent about status."
+   },
+   {
+    "type": "review",
+    "q": "Reviewer says your statistical test is wrong. You…",
+    "options": [
+     "Re-check assumptions, re-run or justify",
+     "Argue loudly",
+     "Change the data",
+     "Ignore it"
+    ],
+    "answer": 0,
+    "why": "Stats critiques deserve real checks."
+   }
+  ]
+ },
+ {
+  "id": "postdoc",
+  "name": "Pablo",
+  "title": "Postdoc",
+  "emoji": "🧪",
+  "color": "FF9800",
+  "intro": "Publish, fund, collaborate.",
+  "questions": [
+   {
+    "type": "review",
+    "q": "Reviewers ask for major revisions. Best response?",
+    "options": [
+     "Ignore them",
+     "Point-by-point reply with changes or reasoned rebuttals",
+     "Withdraw instantly",
+     "Complain publicly"
+    ],
+    "answer": 1,
+    "why": "Itemized responses build trust."
+   },
+   {
+    "type": "mcq",
+    "q": "Reproducibility needs…",
+    "options": [
+     "Secret methods",
+     "Shared data, code and clear methods",
+     "Bigger fonts",
+     "A famous lab"
+    ],
+    "answer": 1,
+    "why": "Open materials allow verification."
+   },
+   {
+    "type": "mcq",
+    "q": "Why is a pre-registered study more credible?",
+    "options": [
+     "Prettier plots",
+     "Hypotheses fixed before seeing data",
+     "Faster review",
+     "Lower cost"
+    ],
+    "answer": 1,
+    "why": "It limits p-hacking."
+   },
+   {
+    "type": "order",
+    "q": "Order a grant workflow:",
+    "items": [
+     "Find funding call",
+     "Draft aims & budget",
+     "Internal review",
+     "Submit before deadline"
+    ],
+    "why": "Leave time for feedback before the deadline."
+   },
+   {
+    "type": "citation",
+    "q": "Best way to credit a dataset you reused?",
+    "options": [
+     "Cite it with DOI and license",
+     "Don't mention it",
+     "Cite the lab website only",
+     "Cite a newspaper"
+    ],
+    "answer": 0,
+    "why": "Datasets are citable outputs."
+   },
+   {
+    "type": "review",
+    "q": "You're asked to review a close friend's paper. You…",
+    "options": [
+     "Declare a conflict of interest to the editor",
+     "Accept silently",
+     "Rate it perfect",
+     "Warn your friend"
+    ],
+    "answer": 0,
+    "why": "Conflicts must be disclosed."
+   },
+   {
+    "type": "mcq",
+    "q": "Open access means…",
+    "options": [
+     "Free to read online",
+     "Free to write",
+     "Anonymous",
+     "No review"
+    ],
+    "answer": 0,
+    "why": "OA removes paywalls for readers."
+   },
+   {
+    "type": "mcq",
+    "q": "Which is a popular preprint server?",
+    "options": [
+     "arXiv",
+     "Netflix",
+     "Spotify",
+     "Amazon"
+    ],
+    "answer": 0,
+    "why": "Preprints share results fast."
+   },
+   {
+    "type": "mcq",
+    "q": "ORCID is…",
+    "options": [
+     "A persistent researcher identifier",
+     "A journal",
+     "A grant",
+     "A citation style"
+    ],
+    "answer": 0,
+    "why": "It disambiguates authors with similar names."
+   },
+   {
+    "type": "mcq",
+    "q": "Journal impact factor measures…",
+    "options": [
+     "Average citations of a journal, not a paper's quality",
+     "A paper's truth",
+     "Author age",
+     "Lab size"
+    ],
+    "answer": 0,
+    "why": "Don't judge papers by journal metrics alone."
+   },
+   {
+    "type": "order",
+    "q": "Respond to reviewers:",
+    "items": [
+     "Read all comments",
+     "Plan changes",
+     "Revise the manuscript",
+     "Write a point-by-point reply"
+    ],
+    "why": "Plan before editing."
+   },
+   {
+    "type": "fake",
+    "q": "Authors cite each other to boost numbers. This is…",
+    "options": [
+     "Citation manipulation",
+     "Healthy collaboration",
+     "Good practice",
+     "Required"
+    ],
+    "answer": 0,
+    "why": "Citations should reflect relevance."
+   },
+   {
+    "type": "mcq",
+    "q": "Best way to find collaborators?",
+    "options": [
+     "Conferences and shared papers",
+     "Random cold spam",
+     "Avoiding people",
+     "Only memes"
+    ],
+    "answer": 0,
+    "why": "Real interactions build real partnerships."
+   },
+   {
+    "type": "mcq",
+    "q": "A data management plan describes…",
+    "options": [
+     "How data is stored, shared and preserved",
+     "Lunch plans",
+     "Only the budget",
+     "Author order"
+    ],
+    "answer": 0,
+    "why": "Funders increasingly require one."
+   },
+   {
+    "type": "review",
+    "q": "Asked to review but you're swamped. You…",
+    "options": [
+     "Decline promptly and suggest alternatives",
+     "Accept and never reply",
+     "Ignore the email",
+     "Rush a poor review"
+    ],
+    "answer": 0,
+    "why": "A fast decline helps the editor."
+   }
+  ]
+ },
+ {
+  "id": "prof",
+  "name": "Prof. Okafor",
+  "title": "Professor",
+  "emoji": "🎓",
+  "color": "E53935",
+  "intro": "Lead a lab, mentor, shape the field.",
+  "questions": [
+   {
+    "type": "mcq",
+    "q": "A student's data contradicts your favorite theory. You…",
+    "options": [
+     "Hide it",
+     "Investigate honestly and report it",
+     "Delete outliers",
+     "Blame equipment"
+    ],
+    "answer": 1,
+    "why": "Integrity beats being right."
+   },
+   {
+    "type": "mcq",
+    "q": "Fair authorship order reflects…",
+    "options": [
+     "Seniority only",
+     "Actual intellectual contribution",
+     "Alphabet luck",
+     "Who typed"
+    ],
+    "answer": 1,
+    "why": "Agree on authorship early (e.g. CRediT)."
+   },
+   {
+    "type": "mcq",
+    "q": "Best way to grow a healthy lab?",
+    "options": [
+     "Pressure for results",
+     "Clear expectations, mentorship and safety",
+     "No meetings",
+     "Compete students"
+    ],
+    "answer": 1,
+    "why": "Supportive labs do more reliable science."
+   },
+   {
+    "type": "order",
+    "q": "Order handling suspected misconduct:",
+    "items": [
+     "Document concerns",
+     "Consult the research-integrity office",
+     "Follow the formal process",
+     "Support all parties fairly"
+    ],
+    "why": "Never investigate alone."
+   },
+   {
+    "type": "fake",
+    "q": "A stunning result arrives with no raw data. First step?",
+    "options": [
+     "Ask for raw data and replicate",
+     "Publish immediately",
+     "Issue a press release",
+     "Ignore it"
+    ],
+    "answer": 0,
+    "why": "Extraordinary claims need verifiable data."
+   },
+   {
+    "type": "review",
+    "q": "As editor, reviewers split 2 accept / 1 reject with strong evidence. You…",
+    "options": [
+     "Read all reports and weigh the evidence, or seek another review",
+     "Count votes only",
+     "Pick your favorite",
+     "Reject to be safe"
+    ],
+    "answer": 0,
+    "why": "Editors weigh arguments, not tallies."
+   },
+   {
+    "type": "mcq",
+    "q": "An ethics board reviews…",
+    "options": [
+     "Studies involving people or animals",
+     "Cafeteria menus",
+     "Tenure cases",
+     "Grammar"
+    ],
+    "answer": 0,
+    "why": "Approval comes before data collection."
+   },
+   {
+    "type": "mcq",
+    "q": "Grant success depends most on…",
+    "options": [
+     "Significance, feasibility and fit",
+     "Length",
+     "Fancy fonts",
+     "Luck only"
+    ],
+    "answer": 0,
+    "why": "Reviewers fund clear, achievable impact."
+   },
+   {
+    "type": "mcq",
+    "q": "A good mentor…",
+    "options": [
+     "Gives feedback and credit",
+     "Takes credit",
+     "Disappears",
+     "Micromanages"
+    ],
+    "answer": 0,
+    "why": "Mentoring multiplies your impact."
+   },
+   {
+    "type": "mcq",
+    "q": "A retraction is…",
+    "options": [
+     "Formal withdrawal of a flawed paper",
+     "A praise note",
+     "A new edition",
+     "A citation"
+    ],
+    "answer": 0,
+    "why": "Retractions protect the scientific record."
+   },
+   {
+    "type": "order",
+    "q": "Create a lab data policy:",
+    "items": [
+     "Define needs",
+     "Set storage & backup rules",
+     "Train members",
+     "Audit regularly"
+    ],
+    "why": "Policy without training fails."
+   },
+   {
+    "type": "fake",
+    "q": "A journal flatters you and asks a 'quick publication fee'. You…",
+    "options": [
+     "Check indexing and reputation first",
+     "Pay immediately",
+     "Send all your work",
+     "Forward to students"
+    ],
+    "answer": 0,
+    "why": "Pressure plus fees are red flags."
+   },
+   {
+    "type": "review",
+    "q": "Your paper is harshly rejected. You…",
+    "options": [
+     "Learn from comments, revise, submit elsewhere",
+     "Attack the reviewers",
+     "Quit research",
+     "Fake results"
+    ],
+    "answer": 0,
+    "why": "Resilience is a research skill."
+   },
+   {
+    "type": "citation",
+    "q": "Self-citation is fine when…",
+    "options": [
+     "It is genuinely relevant",
+     "Always",
+     "It boosts metrics",
+     "Never"
+    ],
+    "answer": 0,
+    "why": "Relevance is the test."
+   },
+   {
+    "type": "mcq",
+    "q": "An open-science practice is…",
+    "options": [
+     "Sharing data and code",
+     "Hiding methods",
+     "Avoiding review",
+     "Deleting data"
+    ],
+    "answer": 0,
+    "why": "Openness enables verification."
+   }
+  ]
+ }
+]
