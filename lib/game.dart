@@ -51,7 +51,7 @@ class _GameState extends State<Game> {
   }
 
   void next() {
-    if (lives <= 0 || i == qs.length - 1) return end();
+    if (lives <= 0 || i == qs.length - 1) { end(); return; }
     setState(() {
       i++;
       prep();
@@ -83,7 +83,7 @@ class _GameState extends State<Game> {
     return Scaffold(
       appBar: AppBar(
         title: Text(h.title),
-        backgroundColor: h.color.withOpacity(.4),
+        backgroundColor: h.color.withValues(alpha: .4),
         actions: [Center(child: Padding(padding: const EdgeInsets.only(right: 16), child: Text('${'❤️' * lives} 🔥$streak ⭐$score')))],
       ),
       body: ListView(padding: const EdgeInsets.all(16), children: [

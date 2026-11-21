@@ -72,7 +72,7 @@ class _HomeState extends State<Home> {
     return Opacity(
       opacity: ok ? 1 : .4,
       child: Card(
-        color: h.color.withOpacity(.25),
+        color: h.color.withValues(alpha: .25),
         child: ListTile(
           contentPadding: const EdgeInsets.all(16),
           leading: CircleAvatar(radius: 28, backgroundImage: AssetImage('assets/avatars/${h.id}.png')),
